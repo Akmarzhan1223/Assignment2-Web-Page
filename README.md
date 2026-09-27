@@ -26,7 +26,7 @@ A container with three cards, each containing an image, title, text, and a butto
 
 **Screenshot:**
 
-![Task 1 - Card Row](screenshots/task1_cards.png)
+![alt text](screenshots/task1.png)
 
 ---
 
@@ -44,7 +44,7 @@ A layout with header, sidebar, main content, and footer using CSS Grid and `grid
 
 **Screenshot:**
 
-![Task 2 - Grid Layout](screenshots/task2_grid.png)
+![alt text](screenshots/task2.png)
 
 ---
 
@@ -62,7 +62,8 @@ A gallery with nine images displayed in a grid, with consistent gaps and a hover
 
 **Screenshot:**
 
-![Task 3 - Image Gallery](screenshots/task3_gallery.png)
+![alt text](screenshots/task3.png)
+
 
 ---
 
@@ -79,7 +80,7 @@ A portfolio page combining both Flexbox and Grid: a flex header navigation, a gr
 
 **Screenshot:**
 
-![Part 3 - Portfolio Page](screenshots/part3_portfolio.png)
+![alt text](screenshots/task4.png)
 
 ---
 
@@ -87,7 +88,6 @@ A portfolio page combining both Flexbox and Grid: a flex header navigation, a gr
 
 - HTML5
 - CSS3 (Flexbox, CSS Grid)
-- No external frameworks
 
 ---
 
@@ -120,7 +120,7 @@ Throughout the work, I focused on consistent spacing (`gap`), alignment (`align-
 
 ---
 
-## 🔗 References
+##  References
 
 1. Abitova G.A. Web technologies Front-End Development. Part 1 (2022)
 2. https://www.w3schools.com/css/css3_flexbox.asp
